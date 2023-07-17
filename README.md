@@ -1,5 +1,5 @@
 ## Olá! Sou João Gava, estudante de Engenharia de Software na FIAP.
-<h3>Lista de softwares e ferramentas com expertise:</h3>
+<h3>Lista de softwares e linguagens em aprendizado:</h3>
 <div style="display: inline-block">
   <br></br>
   <img align="center" alt="gava-PY" height="30cm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
